@@ -42,3 +42,14 @@ rm -rf %{buildroot}
 %doc Changelog README TODO
 %{python_sitearch}/*
 
+
+
+%changelog
+* Wed Jun 08 2011 Antoine Ginies <aginies@mandriva.com> 0.10.7-1mdv2011.0
++ Revision: 683244
+- import python-carrot
+
+
+* Wed Jun 8 2011 Antoine Ginies <aginies@mandriva.com> 0.10.7
+- first release for Mandriva 
+
