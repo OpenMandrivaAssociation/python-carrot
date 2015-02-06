@@ -2,7 +2,7 @@
 
 Name:           python-%{module}
 Version:        0.10.7
-Release:        %mkrel 1
+Release:        2
 Url:            http://github.com/ask/carrot/
 Summary:        AMQP Messaging Framework for Python
 License:        BSD
